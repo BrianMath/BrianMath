@@ -1,5 +1,5 @@
 # Olá, mundo! 👋
-Eu sou o Brian e atualmente estou cursando Ciência da Computação na UFG.
+Eu sou o Brian e atualmente estou cursando Ciência da Computação na Universidade Federal de Goiás (UFG).
 
 ### O que estou fazendo:
 - 🧱 Um [site pessoal](https://brianmath.github.io) com as coisas que eu gosto
@@ -11,4 +11,3 @@ Eu sou o Brian e atualmente estou cursando Ciência da Computação na UFG.
 
 ### O que estou enrolando pra fazer:
 - 🛠 Arrumar meu Github com meus arquivos
-- 🐞 Consertar um bug no [quiz das bandeiras](https://brianmath.github.io/GuessTheFlag/) que impede apertar o botão 'jogar' ao acertar um número ímpar de vezes e errar (eu sei, não faz sentido nenhum).
