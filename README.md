@@ -9,5 +9,5 @@ Eu sou o Brian e atualmente estou cursando Ciência da Computação na Universid
 - ✅ Framework Vue.js
 - © Linguagem C
 
-### O que estou enrolando pra fazer:
-- 🛠 Arrumar meu Github com meus arquivos
+### O que estou testando:
+- ⌨ [ChatGPT](https://chat.openai.com/chat) da OpenAI, modelo de IA optimizado para diálogo 
