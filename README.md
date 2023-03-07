@@ -8,6 +8,7 @@ Eu sou o Brian e atualmente estou cursando Ciência da Computação na Universid
 ### O que estou estudando:
 - ✅ Framework Vue.js
 - © Linguagem C
+- ⚡ Socket.io
 
 ### O que estou testando:
 - ⌨ [ChatGPT](https://chat.openai.com/chat) da OpenAI, modelo de IA optimizado para diálogo 
