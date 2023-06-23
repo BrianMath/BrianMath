@@ -7,7 +7,7 @@ Eu sou o <ins>Brian Matheus</ins> e atualmente estou cursando <ins>Ciência da C
 - 💣 Um [campo minado](https://brianmath.github.io/DesafiosWEB/CampoMinado/) em JS vanilla
 
 ### O que estou estudando:
-- 🌲 Estruturas de dados de árvores, como Árvores de Busca Binária (BST)
+- 🌲 Estruturas de dados
 - ⚙ Assembly - entendendo como funciona e comandos básicos
 - 🖥 Arquitetura de computadores - me interessei um pouco sobre o assunto e estou pesquisando
 
