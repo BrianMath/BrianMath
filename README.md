@@ -1,17 +1,16 @@
 # Olá, mundo! 👋
 Eu sou o <ins>Brian Matheus</ins> e atualmente estou cursando <ins>Ciência da Computação</ins> na Universidade Federal de Goiás (UFG).
 
-### O que estou planejando fazer:
-- 👓 Alguma aplicação com visão computacional, só para testar mesmo
-- 🧱 Refazendo do zero meu [site pessoal](https://brianmath.github.io/) com meu portfólio
-- 💣 Um [campo minado](https://brianmath.github.io/DesafiosWEB/CampoMinado/) em JS vanilla
+### Meus interesses (no momento)
+- 🥐 Aprofundar em C e aprender C++
+- ⚙️ Programação em baixo nível
+- 🔐 Criptografia
+- 🌎 Redes
 
-### O que estou estudando:
-- 🌲 Estruturas de dados
-- ⚙ Assembly - entendendo como funciona e comandos básicos
-- 🖥 Arquitetura de computadores - me interessei um pouco sobre o assunto e estou pesquisando
-
-### O que estou testando:
-- 👨‍💻 [NvChad](https://nvchad.com/), conjunto de configurações do Neovim escritas em Lua
-- ⌨ [ChatGPT](https://chat.openai.com/chat) da OpenAI, modelo de IA optimizado para diálogo
-- 🎻 [Bard](https://bard.google.com/) da Google, resposta ao ChatGPT
+<div>
+	<a href="https://wakatime.com/@BrianMath">
+		<img width="500px" alt="Wakatime stats"
+			src="https://github-readme-stats.vercel.app/api/wakatime?username=BrianMath&theme=algolia&hide_rank=true&layout=donut"
+		>
+	</a>
+</div>
