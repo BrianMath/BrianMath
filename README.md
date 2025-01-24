@@ -2,7 +2,7 @@
 Eu sou o <ins>Brian Matheus</ins> e atualmente estou cursando <ins>Ciência da Computação</ins> na Universidade Federal de Goiás (UFG).
 
 ### Meus interesses (no momento)
-- 🥐 Aprofundar em C e aprender C++
+- 🐲 Desenvolvimento de compiladores/interpretadores
 - ⚙️ Programação em baixo nível
-- 🔐 Criptografia
-- 🌎 Redes
+- 🎮 Desenvolvimento de jogos
+- 🌎 Redes e Web
